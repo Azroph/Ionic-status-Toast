@@ -1,0 +1,7 @@
+{
+  "name": "picsumApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
